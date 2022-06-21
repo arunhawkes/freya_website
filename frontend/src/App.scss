@@ -3,12 +3,32 @@
     font-family: var(--font-base);
   }
   
-  .app__whitebg {
-    background-color: var(--white-color);
-  }
+  // .app__whitebg {
+  //   background-color: var(--white-color);
+  // }
   
-  .app__primarybg {
-    background-color: var(--primary-color);
+  // .app__primarybg {
+  //   background-color: var(--primary-color);
+  // }
+
+  .app__aboutbg {
+    background-color: #69ccf8;
+  }
+
+  .app__workbg {
+    background-color: #f39cc3;
+  }
+
+  .app__skillsbg {
+    background-color: #f30032;
+  }
+
+  .app__testimonialsbg {
+    background-color: #fe5f00;
+  }
+
+  .app__footerbg {
+    background-color: #fac900;
   }
   
   .app__container {
